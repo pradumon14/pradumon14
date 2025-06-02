@@ -40,7 +40,7 @@ An interactive web-based Tic-Tac-Toe game where you can challenge an intelligent
 
 * **Technologies:** HTML, CSS, JavaScript, Minimax Algorithm
 
-* [Play Game](https://pradumon.vercel.app/#projects)
+* [Play Game](https://tic-tac-toe-ai-mauve.vercel.app/)
 
 ### **Portfolio Website V1**
 
