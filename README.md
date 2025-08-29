@@ -17,7 +17,7 @@ I'm continuously expanding my technical toolkit. Here are some of the key areas 
 | **Skill Category** | **Key Technologies / Areas** |
 | :-------------------------- | :--------------------------------------------------------- |
 | **Web Development** | HTML, CSS, JavaScript, Tailwind CSS                        |
-| **Cybersecurity & Ethical Hacking** | Security Principles, Reconnaissance |
+| **Cybersecurity & Ethical Hacking** | Security Principles |
 | **Python Programming** | Scripting, Automation, Data Handling                       |
 | **Electronics & Arduino** | Prototyping, Embedded Systems, IoT Basics                  |
 | **Artificial Intelligence** | Foundations, Emerging Concepts, Machine Learning Basics    |
@@ -49,14 +49,6 @@ My first personal portfolio website (the one you are looking at now) showcasing 
 * **Technologies:** HTML, Tailwind CSS, JavaScript
 
 * [Website](https://pradumon.vercel.app/)
-
-### **Upcoming: Security Tool**
-
-Currently developing a Python-based tool for automating certain security reconnaissance tasks. Stay tuned for updates on GitHub!
-
-* **Technologies:** Python, Networking Libraries
-
-* [Follow on GitHub](https://github.com/pradumon14)
 
 ## 📫 Let's Connect!
 
